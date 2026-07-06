@@ -1,6 +1,8 @@
 This program use TCC (Tiny C Compiler) under LGPL by Fabrice Bellard
 Make sure to distribute the licenses of some headers that are licensed.
 
+Source code: https://download.savannah.gnu.org/releases/tinycc/
+
 Copyright (c) 2001-2018 Fabrice Bellard
 
 
